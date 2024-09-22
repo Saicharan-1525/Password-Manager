@@ -1,0 +1,230 @@
+.bg_container {
+  background-color: #9ba9eb;
+  height: 100%;
+  padding: 20px;
+}
+* {
+  box-sizing: border-box;
+  font-family: 'roboto';
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.image_logo {
+  height: 60px;
+  margin-bottom: 10px;
+}
+.bg-blue-container {
+  background-color: #5763a5;
+  border-radius: 10px;
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  align-items: center;
+
+  padding: 20px;
+  margin-bottom: 10px;
+}
+.bg-thicjBlue-container {
+  background-color: #454f84;
+  padding: 10px;
+  border-radius: 10px;
+  width: 75%;
+  height: auto;
+  margin-right: 30px;
+}
+.password-image {
+  height: 200px;
+  width: 220px;
+}
+.heading {
+  color: #ffffff;
+  font-size: 15px;
+}
+.input-container {
+  background-color: #f8fafc;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  height: 45px;
+  border-radius: 2px;
+  margin-bottom: 10px;
+}
+.website-image {
+  height: 20px;
+  margin-right: 9px;
+  margin-left: 9px;
+}
+.inputtext {
+  height: 100%;
+  width: 100%;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  border-left-style: solid;
+  border-left-color: #94a3b8;
+  border-left-width: 2px;
+}
+.button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  width: 60px;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+  height: 20px;
+  align-self: flex-end;
+}
+.input-search {
+  background-color: #f8fafc;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  height: 30px;
+  border-radius: 2px;
+  margin-bottom: 10px;
+}
+.bg-blue-container2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: centert;
+  width: 100%;
+  min-height: 50vh;
+  background-color: #5763a5;
+  border-radius: 10px;
+
+  padding: 20px;
+  margin-bottom: 10px;
+}
+.search-position {
+  display: flex;
+  justify-content: space-between;
+
+  width: 100%;
+  align-items: center;
+}
+.para-count {
+  background-color: transparent;
+  border: 1px solid #b6c3ca;
+  border-radius: 20px;
+  color: #ffffff;
+  align-items: center;
+  align-self: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 2px;
+}
+hr {
+  background-color: #9ba9eb;
+  height: 1px;
+  width: 100%;
+}
+.password-holder {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.input-search2 {
+  background-color: #f8fafc;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 200px;
+  height: 30px;
+  border-radius: 2px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.checkbox {
+  border: none;
+}
+.label-box {
+  color: #ffffff;
+  font-size: 15px;
+}
+.label-container {
+  display: flex;
+
+  align-self: flex-end;
+}
+.empty-image {
+  height: 240px;
+  width: 240px;
+}
+.no-password {
+  color: #f8fafc;
+  font-size: 15px;
+}
+.ul-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.li-items {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 80px;
+  width: 200px;
+  background-color: transparent;
+  border: 1px solid #9ba9eb;
+  border-radius: 4px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.initial {
+  font-size: 15px;
+  color: #f8fafc;
+  background-color: green;
+  width: 35px;
+  border-radius: 25px;
+  text-align: center;
+  align-items: center;
+  padding: 10px;
+  margin-right: 10px;
+}
+.list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100%;
+  color: #f8fafc;
+}
+.website-image {
+  font-size: 13px;
+  margin: 2px;
+}
+.stars-image {
+  height: 15px;
+  margin-top: 8px;
+  margin-left: 20px;
+}
+.delete-button {
+  width: 20px;
+  height: 20px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  margin-left: auto;
+}
+.delete-image {
+  height: 20px;
+}
+.no_password-position {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
